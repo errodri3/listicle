@@ -13,7 +13,7 @@ const games = [
     image: "/images/lorcana.jpg",
     description: "Trading card game where players use Disney characters as 'glimmers' to battle for control of the board.",
     category: "Trading Card Game",
-    players: "2"
+    players: "2-4"
   },
   {
     id: "star-wars",
@@ -29,7 +29,7 @@ const games = [
     image: "/images/riftbound.jpg",
     description: "Trading card game based on the League of Legends universe.",
     category: "Trading Card Game",
-    players: "2"
+    players: "2-4"
   },
   {
     id: "animal-crossing-monopoly",
