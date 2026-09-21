@@ -39,6 +39,25 @@ app.get('/games/:id', (req, res) => {
   `);
 });
 
+app.use((req, res) => {
+  res.status(404).send(`
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <title>404 - Not Found</title>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    </head>
+    <body>
+      <main class="container">
+        <h1>404</h1>
+        <p>Sorry, that page doesn't exist.</p>
+        <a href="/">&larr; Back to home</a>
+      </main>
+    </body>
+    </html>
+  `);
+});
+
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
