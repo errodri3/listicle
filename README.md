@@ -31,11 +31,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-\*\*Note: please be sure to
-
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/user-attachments/assets/ab443790-c2e3-406a-8a5b-4c5b298b6cb1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://github.com/user-attachments/assets/ab443790-c2e3-406a-8a5b-4c5b298b6cb1)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
