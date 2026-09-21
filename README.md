@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://github.com/user-attachments/assets/ab443790-c2e3-406a-8a5b-4c5b298b6cb1)
+<img width="2202" height="994" alt="WEB103-WEEK1" src="https://github.com/user-attachments/assets/b38af472-d1f7-4cad-a115-fc91d7a0487f" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
